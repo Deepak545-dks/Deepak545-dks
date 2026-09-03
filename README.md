@@ -28,12 +28,20 @@
 
 ---
 
-## 👾 Contribution Activity
+## 🎮 Play My Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepak545-dks/Deepak545-dks/output/git-invader-multi-dark.svg" alt="GitHub Space Invaders">
+  <a href="https://deepak545-dks.github.io/wave-dash/">
+    <img src="https://github.com/Deepak545-dks/wave-dash/raw/main/game-preview.png"
+         width="700"
+         alt="Wave Dash: Geometry Arrow">
+  </a>
 </p>
 
+<p align="center">
+  <b>⚡ Wave Dash: Geometry Arrow</b><br>
+  Click the game to play 🎮
+</p>
 ---
 
 ## 🛠️ Tech Stack
