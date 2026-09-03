@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deepak kumar Sahu
+# 👋 Hi, I'm Deepak Kumar Sahu
 
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast
 
@@ -20,9 +20,6 @@
 <p>
   <a href="https://www.linkedin.com/in/deepak-kumar-sahu-07d">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ds2998625@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
@@ -61,7 +58,7 @@ Full-stack blogging platform for managing and publishing content.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepak545-dks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Deepak's GitHub Stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepak545-dks&show_icons=true&theme=tokyonight&hide_border=true" alt="Deepak's GitHub Stats">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak545-dks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
@@ -70,15 +67,7 @@ Full-stack blogging platform for managing and publishing content.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deepak545-dks&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepak545-dks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies">
+  <img src="https://streak-stats.demolab.com/?user=Deepak545-dks&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
