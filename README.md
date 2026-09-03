@@ -28,20 +28,22 @@
 
 ---
 
-## 🎮 Play My Game
+## 🎮 Wave Dash: Geometry Arrow
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Deepak545-dks/wave-dash/main/wave-dash.svg"
+    width="100%"
+    alt="Wave Dash: Geometry Arrow"
+  />
+</p>
 
 <p align="center">
   <a href="https://deepak545-dks.github.io/wave-dash/">
-    <img src="https://github.com/Deepak545-dks/wave-dash/raw/main/game-preview.png"
-         width="700"
-         alt="Wave Dash: Geometry Arrow">
+    🎮 Play Wave Dash
   </a>
 </p>
 
-<p align="center">
-  <b>⚡ Wave Dash: Geometry Arrow</b><br>
-  Click the game to play 🎮
-</p>
 ---
 
 ## 🛠️ Tech Stack
@@ -77,8 +79,16 @@ Full-stack blogging platform for managing and publishing content.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Deepak545-dks&show_icons=true&theme=tokyonight&hide_border=true" alt="Deepak's GitHub Stats">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepak545-dks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Deepak545-dks&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Deepak's GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepak545-dks&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -86,7 +96,10 @@ Full-stack blogging platform for managing and publishing content.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Deepak545-dks&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img
+    src="https://streak-stats.demolab.com/?user=Deepak545-dks&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
