@@ -11,8 +11,6 @@
 - 👯 I’m looking to collaborate on **Full-Stack, AI/ML and Open-Source Projects**
 - 🤔 I’m looking for help with **AI/ML, System Design & Scalable Applications**
 - 💬 Ask me about **React.js, Node.js, JavaScript, MongoDB & Full-Stack Development**
-- 📫 How to reach me: **ds2998625@gmail.com**
-- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy learning by building real-world projects**
 
 ---
