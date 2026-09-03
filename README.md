@@ -28,7 +28,7 @@
 
 ---
 
-## 👾 GitHub Contributions
+## 👾 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deepak545-dks/Deepak545-dks/output/git-invader-multi-dark.svg" alt="GitHub Space Invaders">
