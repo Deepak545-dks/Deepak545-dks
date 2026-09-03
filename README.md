@@ -58,8 +58,12 @@ Full-stack blogging platform for managing and publishing content.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepak545-dks&show_icons=true&theme=tokyonight&hide_border=true" alt="Deepak's GitHub Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak545-dks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <a href="https://github.com/Deepak545-dks">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Deepak545-dks&show_icons=true&theme=tokyonight&hide_border=true" alt="Deepak's GitHub Stats">
+  </a>
+  <a href="https://github.com/Deepak545-dks">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepak545-dks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  </a>
 </p>
 
 ---
